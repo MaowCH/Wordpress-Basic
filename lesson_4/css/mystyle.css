@@ -1,0 +1,19 @@
+
+.img1{
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+
+.page-numbers{
+    border:1px solid #ddd;
+    padding:8px;
+    margin-bottom: 20px;
+    display: inline-block;
+
+}
+
+ul.navbar-nav > li > a{
+    color:#fff;
+    margin-left:20px;
+}
